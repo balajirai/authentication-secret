@@ -1,4 +1,4 @@
-# authentication-secret
+# Authentication Secret
 
 This is a Secret app which allow users to share their secret anonymously
 
