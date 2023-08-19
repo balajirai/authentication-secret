@@ -29,12 +29,6 @@ This is a [Secret App](https://authenticationsecret.onrender.com/) which allow u
 
 ---
 
-## Credits
-
-This website uses icons from font awesome.
-
----
-
 ## Contributors
 
 - Balaji
