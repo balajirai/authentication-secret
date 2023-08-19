@@ -1,6 +1,6 @@
 # Authentication Secret
 
-This is a Secret app which allow users to share their secret anonymously
+This is a [Secret App](https://authenticationsecret.onrender.com/) which allow users to share their secret anonymously
 
 ---
 
@@ -25,13 +25,8 @@ This is a Secret app which allow users to share their secret anonymously
 - MongoDb
 - Mongoose
 - Google O-Auth
+- MD5 || BCrypt
 - Passport js and more
-
----
-
-## Credits
-
-This website uses icons from font awesome.
 
 ---
 
