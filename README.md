@@ -25,6 +25,7 @@ This is a [Secret App](https://authenticationsecret.onrender.com/) which allow u
 - MongoDb
 - Mongoose
 - Google O-Auth
+- MD5 || BCrypt
 - Passport js and more
 
 ---
